@@ -1,0 +1,8 @@
+```text
+.git
+.github
+.gradle
+build
+.idea
+*.iml
+```
